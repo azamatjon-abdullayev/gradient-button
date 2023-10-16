@@ -1,0 +1,10 @@
+div {
+    display: inline-block;
+    width: 50%;
+    height: 200px;
+    background-image: url("https://barsa");
+    background-position: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black; 
+}
